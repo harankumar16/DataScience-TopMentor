@@ -1,0 +1,22 @@
+Documentation
+
+Analyse each and every column What all datas are there
+And a filter so that we can find what all values there in each column
+In date column the data are not in proper format so we have to convert into proper date So i changed all the date column into date format using power query
+Start time is in correct time format so we no need to change anything
+Day of the week also contains only week days and no empty spaces
+Going to column also have 2 data GSK or home
+In Distance, MaxSpeed, AvgSpeed, AvgMovingSpeed column we have to check any outliers are present using box and whisker plot 
+	from the observation we have few outliers in each column soo in practicality they may occur
+In Fuel economy column we have some unwanted and blank spaces we have to clear it bu filling the values
+	For that we can divide the distance withthe fuel economy so that we get a value 
+	That value is the factor difference between distance and fuel economy
+	After that i found the average of it it is almost 5.33 
+	so im multiplying the empty or the - cells with this value
+In total time and moving time there is no empty space or special characters
+After cleaning the data i went to the tableau
+
+In tableau i created many comparision with day of week its is found that in tues he is travelling more
+
+
+https://public.tableau.com/views/Project1_16795908694860/Sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
