@@ -1,0 +1,12 @@
+Mandalle Resturant Data is provided to you.
+As an analyst you have to analyse the different columns
+and its relation with each other. 
+Can you create multiple hypothesis to prove 
+statistically how different columns are related
+with each other ?
+---------------------------------------------------
+Proper creation of Ho and h1 statement has to be 
+created.
+All Calculations needs to be done in Excel and 
+Proper Inference has to be written.
+---------------------------------------------------
